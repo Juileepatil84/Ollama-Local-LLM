@@ -3,7 +3,7 @@
 
 **Welcome to our Ollama Local Setup Tutorial!** I'm Juilee, and I'll be guiding you through installing and configuring Ollama on your own machines. Let's dive in and unlock the full potential of this powerful data processing tool together!
 
-For detailed visual instructions, please refer to the **[Ollama Setup PDF](Ollama setup.pdf)** which contains step-by-step images to aid in installation and configuration.
+For detailed visual instructions, please refer to the **[Ollama Setup PDF](https://github.com/Juileepatil84/Ollama-Local-LLM/blob/main/Ollama%20setup.pdf)** which contains step-by-step images to aid in installation and configuration.
 
 ### Setup Steps
 
