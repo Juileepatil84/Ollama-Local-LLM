@@ -21,19 +21,21 @@ For a comprehensive guide and step-by-step walkthrough, check out our **[Ollama 
    Visit the [Windows Preview](https://ollama.com/blog/windows-preview) and download the installer. Once downloaded, double-click `OllamaSetup.exe` to start the installation.
 
 ## Run Ollama Installer
-* Double-click the installer, `OllamaSetup.exe`.
 * Once installed, go to Windows Terminal and run any LLM of your choice: `ollama run tinyllama`.
+* Pass the prompt to the model and it will return a response in return.
 * Once LLM is downloaded it will automatically be served on 'http://localhost:11434' (Ollama’s API automatically runs in the background, serving on `http://localhost:11434`. Tools and applications can connect to it without any additional setup).
 * To serve LLM manually, type in terminal: `ollama serve`.
   
 ## Choice of Model
 * Ollama supports numerous models from [ollama.com/library](https://ollama.com/library).
 * To view downloaded or manually created models, in terminal: `ollama list`.
-* To remove a model: `ollama rm tinyllama`.
+* To remove a model: `ollama rm tinyllama`. Specify name of model you want to delete.
   
 ## Running from Terminal
-* To chat with LLM from the terminal, open Command Prompt and type: `ollama run llama2`.
 * Use Ctrl + D to exit.
+* Follow same steps to download new model.
+* You call also use `ollama pull llama2` download and to chat with LLM from the terminal, open terminal and type: `ollama run llama2`.
+
   
 ### Display the Model File of Any Model
 * `ollama show {model_name} --modelfile`.
