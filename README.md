@@ -6,7 +6,7 @@
 For detailed visual instructions, please refer to the **[Ollama Setup PDF](https://github.com/Juileepatil84/Ollama-Local-LLM/blob/main/Ollama%20setup.pdf)** which contains step-by-step images to aid in installation and configuration.
 
 ### Watch Our Detailed Video Tutorial
-For a comprehensive guide and step-by-step walkthrough, check out our **[Ollama Setup YouTube Tutorial](URL_TO_YOUTUBE_TUTORIAL)**.
+For a comprehensive guide and step-by-step walkthrough, check out our **[Ollama Setup YouTube Tutorial](https://youtu.be/tOGH7vNCO4U)**.
 
 ### Setup Steps
 
