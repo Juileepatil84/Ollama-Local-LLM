@@ -10,8 +10,6 @@ For a comprehensive guide and step-by-step walkthrough, check out our **[Ollama 
 
 ### Setup Steps
 
-### Setup Steps
-
 ## Ollama Website
 1. **Visit the Ollama Website**  
    Go to [ollama.com](https://ollama.com/)
